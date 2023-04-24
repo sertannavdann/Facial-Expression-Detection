@@ -15,7 +15,7 @@ This facial expression recognition system combines the strengths of Convolutiona
 The live deployment takes the ONNX file and applies it to a live video stream. Faces are detected using Haar cascades, resized to match the model's input dimensions, and then passed through the model. The output is the class (emotion) with the highest probability.
 
 <p align="center">
-  <img src="Accuracy&LossMaps/take1.png" alt="Powell Project Outline" width="600" />
+  <img src="Accuracy&LossMaps/powell.png" alt="Powell Project Outline" width="600" />
 </p>
 
 ### CPP Version
