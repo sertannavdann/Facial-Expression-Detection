@@ -1,0 +1,6 @@
+# ignore the /data 
+/data/
+# ignore all .log files
+*.log
+# ignore /models
+/models/
