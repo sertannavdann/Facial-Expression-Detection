@@ -8,3 +8,6 @@ matplotlib
 pandas
 seaborn
 onnx
+onnxscript
+onnxruntime
+coremltools
